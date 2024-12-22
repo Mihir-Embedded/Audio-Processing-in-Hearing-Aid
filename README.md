@@ -1,7 +1,4 @@
 # Audio-Processing-in-Hearing-Aid
-   - Designed and implemented Digital Signal Processing (DSP) algorithms to filter and amplify sound signals.
-   - Evaluated various audio processing techniques to enhance clarity and reduce noise.
-   - Conducted extensive testing to ensure the hearing aid's reliability and effectiveness under different environmental conditions.
 Audio-Processing-in-Hearing-Aid-using-MATLAB
 Audio Processing in Hearing Aid This project enhances audio clarity for hearing-impaired users using Digital Signal Processing (DSP) techniques. It includes noise reduction and signal amplification, implemented in Embedded C on a microcontroller. MATLAB was used for DSP algorithm simulation and real-time testing for improved speech clarity.
 
